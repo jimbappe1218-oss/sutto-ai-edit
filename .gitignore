@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.DS_Store
+練習用素材/*.mp4
+練習用素材/*.wav
+練習用素材/*.txt
+練習用素材/*.json
+練習用素材/*.png
